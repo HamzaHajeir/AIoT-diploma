@@ -1,0 +1,98 @@
+{
+	"folders": [
+        {
+            "name": "A_WiFi-Connection",
+            "path": "."
+        },
+        {
+            "name": "B_WebServer",
+            "path": "..\\B_WebServer"
+        },
+        {
+            "name": "C_Access-Point-WebServer",
+            "path": "..\\C_Access-Point-WebServer"
+        },
+        {
+            "name": "F_H4_SONOFF_Basic",
+            "path": "..\\F_H4_SONOFF_Basic"
+        },
+        {
+            "name": "G_H4_MQTT",
+            "path": "..\\G_H4_MQTT"
+        },
+        {
+            "path": "..\\H_H4_Timer"
+        },
+        {
+            "path": "..\\I_FlasherController"
+        },
+        {
+            "path": "..\\J_Rotary_Encoder"
+        },
+        {
+            "path": "..\\K_H4PersistenetStorage"
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "cmath": "cpp",
+            "array": "cpp",
+            "deque": "cpp",
+            "list": "cpp",
+            "string": "cpp",
+            "unordered_map": "cpp",
+            "unordered_set": "cpp",
+            "vector": "cpp",
+            "initializer_list": "cpp",
+            "regex": "cpp",
+            "functional": "cpp",
+            "atomic": "cpp",
+            "*.tcc": "cpp",
+            "bitset": "cpp",
+            "cctype": "cpp",
+            "chrono": "cpp",
+            "clocale": "cpp",
+            "cstdarg": "cpp",
+            "cstddef": "cpp",
+            "cstdint": "cpp",
+            "cstdio": "cpp",
+            "cstdlib": "cpp",
+            "cstring": "cpp",
+            "ctime": "cpp",
+            "cwchar": "cpp",
+            "cwctype": "cpp",
+            "exception": "cpp",
+            "algorithm": "cpp",
+            "iterator": "cpp",
+            "map": "cpp",
+            "memory": "cpp",
+            "memory_resource": "cpp",
+            "numeric": "cpp",
+            "optional": "cpp",
+            "random": "cpp",
+            "ratio": "cpp",
+            "string_view": "cpp",
+            "system_error": "cpp",
+            "tuple": "cpp",
+            "type_traits": "cpp",
+            "utility": "cpp",
+            "fstream": "cpp",
+            "iomanip": "cpp",
+            "iosfwd": "cpp",
+            "istream": "cpp",
+            "limits": "cpp",
+            "new": "cpp",
+            "ostream": "cpp",
+            "sstream": "cpp",
+            "stdexcept": "cpp",
+            "streambuf": "cpp",
+            "cinttypes": "cpp",
+            "typeinfo": "cpp",
+            "bit": "cpp",
+            "compare": "cpp",
+            "concepts": "cpp",
+            "netfwd": "cpp",
+            "numbers": "cpp"
+        }
+    }
+}
